@@ -1,0 +1,15 @@
+li:nth-child(even) {
+  color: #76cdd8;
+}
+
+ol li:last-child {
+  color: #008ACE !important;
+}
+
+li:nth-child(2n+5) {
+  color: #CEDB56;
+}
+
+div:nth-last-child(3n+7) li:first-child {
+  color: #D35D47;
+}
